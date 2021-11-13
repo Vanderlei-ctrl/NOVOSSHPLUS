@@ -1,0 +1,2 @@
+# NOVOSSHPLUS
+Aprendendo   linux 
